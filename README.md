@@ -5,3 +5,6 @@ Projekt zawiera:
   - Proces uczenia CNN
   - Próba przeuczenia SVM liniowego
   - Podsumowanie wyników
+
+## Dataset
+[Kaggle](https://www.kaggle.com/datamunge/sign-language-mnist)
